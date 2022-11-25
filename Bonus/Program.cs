@@ -1,8 +1,8 @@
-﻿using csharp_geometria;
+﻿using Bonus;
 
 Rettangolo rettangoloU = new Rettangolo();
 Rettangolo rettangolo1 = new Rettangolo();
-Rettangolo rettangolo2 = new Rettangolo();  
+Rettangolo rettangolo2 = new Rettangolo();
 
 
 Console.WriteLine("Creiamo un rettangolo! Dagli un nome!");
